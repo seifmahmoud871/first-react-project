@@ -1,0 +1,16 @@
+.line{
+    width: 120px;
+    height: 4px;
+    border-radius: 5px;
+    background-color: #2C3E50;
+
+}
+
+.col2C3E50{
+    color: #2C3E50;
+}
+
+
+.bgcol2C3E50{
+    background-color: #2C3E50;
+}

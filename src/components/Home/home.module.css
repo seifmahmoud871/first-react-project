@@ -1,0 +1,23 @@
+.h_80vh{
+    height:80vh;
+}
+.main_bgcolor{
+    background-color: #19BC9C;
+}
+
+.w_250px{
+    width: 250px;
+}
+
+.line{
+    width: 120px;
+    height: 4px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+
+.px_64{
+    font-size: 64px;
+
+}
